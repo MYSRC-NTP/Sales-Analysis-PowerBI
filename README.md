@@ -3,7 +3,6 @@
 Dự án phân tích dữ liệu bán hàng bằng **Excel, Pandas, SQL và Power BI**.
 
 ---
-
 ## 1. Mục tiêu
 - Làm sạch dữ liệu bán hàng (~2,000 dòng).  
 - Tính toán **OrderTotal** cho mỗi đơn hàng.  
@@ -19,6 +18,21 @@ Dự án phân tích dữ liệu bán hàng bằng **Excel, Pandas, SQL và Powe
 - **Power BI**: trực quan hóa dữ liệu.  
 
 ---
+
+**Excel**.
+
+### 🔹 Data
+![Data sales](./IMG/{48EE15CB-2A85-4556-AEA1-5B62710CDD6B}.png)
+
+### 🔹 Tạo 3 Pivot Table
+![Doanh thu theo tháng](./IMG/{05FF0B22-823B-46BB-9F2B-0EC25093C834}.png)
+
+### 🔹 3 biểu đồ 
+![Doanh thu theo sản phẩm](./IMG/{A9611EFC-6E3E-4621-968B-AC3778D3FF41}.png)
+
+
+
+**Power BI**.
 
 ## 3. Dashboard & Kết quả
 
